@@ -8,6 +8,8 @@
 layout: default
 ---
 
+## Introduction to R, RStudio and *litsearchr* Virtual Workshop
+
 ### About this workshop
 
 We are pleased to offer a virtual, hands-on training over two half-days on R, RStudio and *litsearchr*. This training will be held April 20-21, 2023 from 2-5pm EDT. 
