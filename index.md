@@ -20,14 +20,14 @@ The [curriculum for this workshop](https://carpentries-incubator.github.io/lc-li
 
 ### Workshop Instructors
 
-**Eliza Grames**
-Post-doctoral Researcher 
+**Eliza Grames**  
+Post-doctoral Researcher  
 University of Nevada Reno
 
-**Amelia Kallaher**
-Biomedical Data Manager
+**Amelia Kallaher**  
+Biomedical Data Manager  
 Sage Bionetworks
 
-**Sarah Young**
-Social Sciences Librarian
+**Sarah Young**  
+Social Sciences Librarian  
 Carnegie Mellon University Libraries
