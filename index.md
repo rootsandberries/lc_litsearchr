@@ -12,18 +12,18 @@ layout: default
 
 ### About this workshop
 
-We are pleased to offer a virtual, hands-on training over two half-days on R, RStudio and *litsearchr*. This training will be held April 20-21, 2023 from 2-5pm EDT. 
+We are pleased to offer a virtual, hands-on training over two half-days on R, RStudio and *litsearchr*. This training will be held June 26-27, 2023 from 1-4:30 pm GMT (UTC +0). 
 
-**Applications are now closed but stay tuned for more information about upcoming sessions for European/African timezones in June and September**
+**Applications will open on May 1. Please apply at this link: [https://forms.gle/kPgpQC1hk59G74sC8](https://forms.gle/kPgpQC1hk59G74sC8)**
 
-Applications will be evaluated based on the following criteria:
+Note that applications will be evaluated based on the following criteria, so please take time and care to answer the free text questions:
 
 * demonstration of need
 * existing knowledge gap
 * potential impact of training
 
 
-This training is designed to introduce librarians and information specialists to the R programming language using RStudio, with a particular focus on using R for evidence synthesis. [*litsearchr*](https://elizagrames.github.io/litsearchr/) is an R package designed to assist in term harvesting and search strategy development. You will gain hands-on experience with these tools, providing a foundation for building your coding skills, automating aspects of search strategy development and generating reproducible code for evidence synthesis projects. 
+This training is designed to introduce librarians and information specialists to the R programming language using RStudio, with a particular focus on using R for evidence synthesis, thus **the primary audience for this training is information specialists and librarians actively involved in supporting evidence synthesis**. [*litsearchr*](https://elizagrames.github.io/litsearchr/) is an R package designed to assist in term harvesting and search strategy development. You will gain hands-on experience with these tools, providing a foundation for building your coding skills, automating aspects of search strategy development and generating reproducible code for evidence synthesis projects. 
 
 The [curriculum for this workshop](https://carpentries-incubator.github.io/lc-litsearchr/) is openly available and is being developed as a lesson for [Library Carpentry](https://librarycarpentry.org/).
 
