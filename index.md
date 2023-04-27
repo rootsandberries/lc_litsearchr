@@ -14,7 +14,7 @@ layout: default
 
 We are pleased to offer a virtual, hands-on training over two half-days on R, RStudio and *litsearchr*. This training will be held June 26-27, 2023 from 1-4:30 pm GMT (UTC +0). 
 
-**Applications will open on May 1. Please apply at this link: [https://forms.gle/kPgpQC1hk59G74sC8](https://forms.gle/kPgpQC1hk59G74sC8)**
+**Applications will open on May 1 with an application deadline of May 31. Please apply at this link: [https://forms.gle/kPgpQC1hk59G74sC8](https://forms.gle/kPgpQC1hk59G74sC8)**
 
 Note that applications will be evaluated based on the following criteria, so please take time and care to answer the free text questions:
 
